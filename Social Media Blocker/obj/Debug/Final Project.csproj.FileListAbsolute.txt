@@ -1,0 +1,54 @@
+C:\Users\Lenovo\Desktop\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Lenovo\Desktop\Final Project\bin\Debug\Final Project.exe
+C:\Users\Lenovo\Desktop\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.exe
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final Project.exe.config
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form2.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form3.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form4.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form5.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form6.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form7.resources
+C:\Users\Lenovo\Desktop\Final Project\obj\Debug\Final_Project.Form8.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\bin\Debug\Final Project.exe.config
+C:\Users\Lenovo\Desktop\Social Media Blocker\bin\Debug\Final Project.exe
+C:\Users\Lenovo\Desktop\Social Media Blocker\bin\Debug\Final Project.pdb
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.exe.config
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form1.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form2.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form3.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form4.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form5.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form6.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form7.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Form8.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.exe
+C:\Users\Lenovo\Desktop\Social Media Blocker\obj\Debug\Final Project.pdb
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\bin\Debug\Final Project.exe.config
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\bin\Debug\Final Project.exe
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\bin\Debug\Final Project.pdb
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.exe.config
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form1.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form2.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form3.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form4.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form5.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form6.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form7.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Form8.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.exe
+C:\Users\USER\Downloads\Social Media Blocker (1)\Social Media Blocker\obj\Debug\Final Project.pdb
